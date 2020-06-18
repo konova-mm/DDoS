@@ -7,10 +7,10 @@
 
 ### 3 types of DDoS Attacks:
 
-### 1. Volume-based attacks,
-### 2. Protocol attacks, and
-### 3. Application layer attacks.
-
+`` Volume-based attacks
+ Protocol attacks 
+ Application layer attacks. ``
+ 
 ### methods of doing DDoS attacks:
 
   ``` UDP flood

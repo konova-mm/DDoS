@@ -1,5 +1,10 @@
 ## Tools And Scripts for DDoS Testing
 
+### Slowhttptest
+``Slowhttptest is one of the DoS attacking tools. It especially uses HTTP protocol to connect with the server and to keep the resources busy such as CPU and RAM.``
+#### [Download](https://github.com/shekyan/slowhttptest)
+
+
 ### Hping
 ``It makes the DDoS attack by sending TCP/IP, UDP, ICMP, SYN packets. It displays the replies similar to Ping program. This tool is created for testing purposes. It is used for testing firewall rules.``
 #### [Download](www.hping.org)

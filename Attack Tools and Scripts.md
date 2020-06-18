@@ -111,3 +111,9 @@ Verdict: It has python dependency and installation also can be difficult. It can
 ``This attack uses the SSL exhaustion method. It makes the server down by exhausting all the SSL connections. It can work using a single machine.``
 #### [Download](https://github.com/azet/thc-tls-dos)
 
+### Useful Links
+### [DDoS HandBook](https://security.radware.com/uploadedFiles/Resources_and_Content/DDoS_Handbook/DDoS_Handbook.pdf)
+### [DDos For Dummies](http://crezer.net/Newsletter/archivos/DDoS.pdf)
+
+
+### Noted by [konova](https://www.facebook.com/kon0va)

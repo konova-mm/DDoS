@@ -50,6 +50,7 @@ This type of attack is performed by a number of compromised machines that all ta
 
 
 ### [DDoS HandBook](https://security.radware.com/uploadedFiles/Resources_and_Content/DDoS_Handbook/DDoS_Handbook.pdf)
+### [DDos For Dummies](http://crezer.net/Newsletter/archivos/DDoS.pdf)
 
 
 ### Noted by [konova](https://www.facebook.com/kon0va)
